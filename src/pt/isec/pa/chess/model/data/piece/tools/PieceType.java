@@ -1,4 +1,4 @@
-package pt.isec.pa.chess.model.data.pieces;
+package pt.isec.pa.chess.model.data.piece.tools;
 
 public enum PieceType {
     KING("k"), QUEEN("q"),  ROOK("r"),  BISHOP("b"),  KNIGHT("n"),  PAWN("p");

@@ -1,9 +1,10 @@
-package pt.isec.pa.chess.ui;
+package pt.isec.pa.chess.ui.audio;
 
 import pt.isec.pa.chess.model.ChessGameManager;
 import pt.isec.pa.chess.model.data.board.Position;
-import pt.isec.pa.chess.model.data.pieces.PieceFactory;
-import pt.isec.pa.chess.model.data.pieces.PieceType;
+import pt.isec.pa.chess.model.data.piece.tools.PieceFactory;
+import pt.isec.pa.chess.model.data.piece.tools.PieceType;
+import pt.isec.pa.chess.ui.board.ChessMenuBar;
 import pt.isec.pa.chess.ui.res.SoundManager;
 
 import java.util.List;

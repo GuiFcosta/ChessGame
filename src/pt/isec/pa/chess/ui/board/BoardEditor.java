@@ -1,7 +1,6 @@
-package pt.isec.pa.chess.ui;
+package pt.isec.pa.chess.ui.board;
 
 import javafx.geometry.Insets;
-import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.*;
@@ -9,7 +8,6 @@ import javafx.stage.Modality;
 import javafx.stage.Stage;
 import pt.isec.pa.chess.model.ChessGameManager;
 import pt.isec.pa.chess.model.data.board.Position;
-import pt.isec.pa.chess.model.data.pieces.PieceType;
 
 public class BoardEditor {
     private ChessGameManager gameManager;

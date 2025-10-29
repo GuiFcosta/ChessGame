@@ -2,9 +2,9 @@ package pt.isec.pa.chess.model;
 
 import pt.isec.pa.chess.model.data.board.Board;
 import pt.isec.pa.chess.model.data.board.Position;
-import pt.isec.pa.chess.model.data.pieces.Piece;
-import pt.isec.pa.chess.model.data.pieces.PieceFactory;
-import pt.isec.pa.chess.model.data.pieces.PieceType;
+import pt.isec.pa.chess.model.data.piece.Piece;
+import pt.isec.pa.chess.model.data.piece.tools.PieceFactory;
+import pt.isec.pa.chess.model.data.piece.tools.PieceType;
 import pt.isec.pa.chess.model.memento.IMemento;
 import pt.isec.pa.chess.model.memento.IOriginator;
 import pt.isec.pa.chess.model.memento.Memento;

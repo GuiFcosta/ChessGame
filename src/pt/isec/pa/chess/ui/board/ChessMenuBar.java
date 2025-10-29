@@ -1,4 +1,4 @@
-package pt.isec.pa.chess.ui;
+package pt.isec.pa.chess.ui.board;
 
 import javafx.application.Platform;
 import javafx.scene.control.*;
@@ -6,6 +6,7 @@ import javafx.scene.input.Clipboard;
 import javafx.scene.input.ClipboardContent;
 import javafx.stage.FileChooser;
 import pt.isec.pa.chess.model.ChessGameManager;
+import pt.isec.pa.chess.ui.root.RootPane;
 
 import java.io.File;
 import java.util.Optional;

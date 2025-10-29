@@ -5,6 +5,8 @@ import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.stage.Stage;
 import pt.isec.pa.chess.model.ChessGameManager;
+import pt.isec.pa.chess.ui.root.RootLog;
+import pt.isec.pa.chess.ui.root.RootPane;
 
 import java.util.Objects;
 

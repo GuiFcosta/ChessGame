@@ -1,7 +1,8 @@
-package pt.isec.pa.chess.model.data.pieces;
+package pt.isec.pa.chess.model.data.piece;
 
 import pt.isec.pa.chess.model.data.board.Board;
 import pt.isec.pa.chess.model.data.board.Position;
+import pt.isec.pa.chess.model.data.piece.tools.PieceType;
 
 import java.io.Serial;
 import java.io.Serializable;

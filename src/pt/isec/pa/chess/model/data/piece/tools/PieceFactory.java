@@ -1,6 +1,8 @@
-package pt.isec.pa.chess.model.data.pieces;
+package pt.isec.pa.chess.model.data.piece.tools;
 
 import pt.isec.pa.chess.model.data.board.Position;
+import pt.isec.pa.chess.model.data.piece.pieces.*;
+import pt.isec.pa.chess.model.data.piece.Piece;
 
 public class PieceFactory {
     public static PieceType fromIcon(String icon){

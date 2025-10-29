@@ -1,12 +1,15 @@
-package pt.isec.pa.chess.ui;
+package pt.isec.pa.chess.ui.root;
 
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.StackPane;
 import pt.isec.pa.chess.model.ChessGameManager;
+import pt.isec.pa.chess.ui.board.ChessMenuBar;
+import pt.isec.pa.chess.ui.audio.AudioPlayer;
+import pt.isec.pa.chess.ui.board.ChessBoardCanvas;
 
 public class RootPane extends BorderPane {
     ChessGameManager gameManager;
-    ChessBoardCanvas chessBoardCanvas;
+    public ChessBoardCanvas chessBoardCanvas;
     ChessMenuBar menu;
     StackPane boardPane;
     AudioPlayer audioPlayer;

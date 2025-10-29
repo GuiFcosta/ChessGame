@@ -1,4 +1,4 @@
-package pt.isec.pa.chess.ui;
+package pt.isec.pa.chess.ui.board;
 
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
@@ -8,7 +8,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import pt.isec.pa.chess.model.ChessGameManager;
 import pt.isec.pa.chess.model.data.board.Position;
-import pt.isec.pa.chess.model.data.pieces.PieceType;
+import pt.isec.pa.chess.model.data.piece.tools.PieceType;
 import pt.isec.pa.chess.ui.res.ImageManager;
 
 import java.util.List;

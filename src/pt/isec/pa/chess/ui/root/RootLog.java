@@ -1,4 +1,4 @@
-package pt.isec.pa.chess.ui;
+package pt.isec.pa.chess.ui.root;
 
 import javafx.geometry.Insets;
 import javafx.scene.control.Button;
