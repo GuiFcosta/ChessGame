@@ -1,4 +1,4 @@
-# ♟️ PA Chess - Advanced Programming Project
+# ♟️ Chess - Advanced Programming Project
 
 **A full-featured Chess Game developed in Java (JavaFX), focusing on robust Object-Oriented Design and Design Patterns.**
 
